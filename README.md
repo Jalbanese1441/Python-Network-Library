@@ -1,5 +1,5 @@
 # Python Network Command Library
- Network is a python library that contains a bunch of network related functions. It does not have and dependencies other then access to CMD. This Library contains mostly WiFi related functions. 
+ Network is a python library that contains a bunch of network related functions. It does not have any dependencies other then access to CMD. This Library contains mostly WiFi related functions. 
  
 ## Documentation
 
